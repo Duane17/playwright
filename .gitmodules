@@ -1,0 +1,3 @@
+[submodule "bloglist-frontend"]
+	path = bloglist-frontend
+	url = https://github.com/Duane17/playwright
